@@ -1,0 +1,11 @@
+.next/
+node_modules/
+
+*.tsbuildinfo
+
+_tmp_*
+before-ui.png
+after-ui.png
+
+.env*
+!.env.example
